@@ -29,4 +29,4 @@ Middle Temple is located in the wider Temple area of London, near the Royal Cour
 
 # References
 
-[^1]: [Wikipedia: Helena Normanton](https://en.wikipedia.org/wiki/Helena_Normanton)
+[^1]: [Wikipedia: English criminal law](https://en.wikipedia.org/wiki/English_criminal_law)
