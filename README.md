@@ -1,9 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Women In The Law"
+       title="Watchmen, Charlies, Peelers: The Story of Policing"
        author="Middle Temple Library"
-       banner="https://www.middletemple.org.uk/sites/default/files/Uploads/archive/Robinson.png" 
+       banner="https://www.middletemple.org.uk/sites/default/files/Uploads/17th%20century%20night%20watchman.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
