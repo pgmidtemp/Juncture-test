@@ -27,6 +27,12 @@ The story of policing in London is a mutable and ever-changing one. The earliest
 Middle Temple is located in the wider Temple area of London, near the Royal Courts of Justice, and within the City of London.
 <param ve-map center="Q925942" zoom="11" prefer-geojson>
 
+## Timelines
+https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1UEgKxxkuU7QvQ7PkOM0ahUC1n0PqH7fpER_pT9jW2oI&
+
+## Interactive maps
+https://leafletjs.com/ 
+
 # References
 
 [^1]: [Wikipedia: English criminal law](https://en.wikipedia.org/wiki/English_criminal_law)
